@@ -1,0 +1,140 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo u
+    6  sudo su
+    7  fortune
+    8  cls
+    9  clear
+   10  history
+   11  clear
+   12  history
+   13  history>historial.txt
+   14  historial.txt>nicolas
+   15  ls
+   16  historial.txt>nicolas
+   17  clear
+   18  ls
+   19  man ls
+   20  ls --help
+   21  ls info
+   22  info ls
+   23  wich ls
+   24  which ls
+   25  whatis ls
+   26  whatis passwd
+   27  ls
+   28  rm historial.txt
+   29  ls
+   30  touch miarchivo
+   31  ls
+   32  pwd
+   33  pwd---
+   34  cd..
+   35  cd ..
+   36  ls
+   37  cd /media
+   38  ls
+   39  cd alumno
+   40  cd
+   41  pwd
+   42  cd /
+   43  pwd
+   44  cd
+   45  pwd
+   46  mkdir principal/{datos/{personales,backup}}/fotos{compartidas,bloqueadas}/historial
+   47  mkdir-r  principal/{datos/{personales,backup}}/fotos{compartidas,bloqueadas}/historial
+   48  mkdir principal
+   49  pwd
+   50  ls
+   51  rmdir principal
+   52  ls
+   53  rm miarchivo
+   54  ls
+   55  mkdir -p principal/{historial,datos/personales,backup,fotos,compartidas,bloqueadas}
+   56  tree
+   57  mkdir -p principal2/{historial,datos/personales,backup/fotos/compartidas,bloqueadas/}
+   58  tree
+   59  rm dir principal
+   60  rmdir principal
+   61  rm dir principal
+   62  rm principal
+   63  rmdir principal
+   64  mkdir -p principal3/{historial,datos/personales,datos/backup/,fotos/compartidas,fotos/backup}
+   65  tree
+   66  mkdir -p principal4/{historial,datos/personales,datos/backup/,fotos/compartidas,fotos/bloqueadas}
+   67  tree
+   68  rm -r principal
+   69  tree
+   70  rm -p principal2
+   71  rm -r principal2
+   72  rm -r principal3
+   73  tree
+   74  history
+   75  history>historial.txt
+   76  historial.txt >principal/historial
+   77  cat historial.txt>principal/historial
+   78  mv historial.txt>principal/historial
+   79  mv /historial.txt ./principal/historial
+   80  man mv
+   81  mv --help
+   82  cp historial.txt >principal/historial
+   83  cp historial.txt > .principal/historial
+   84  pwd
+   85  tree
+   86  history >principal4/historial/historial.txt
+   87  tree
+   88  cp etc/passwd /principal4/datos/personales/datos.txt
+   89  man cp
+   90  cp -etc/passwd /principal4/datos/personales/datos.txt
+   91  cp /etc/passwd /principal4/datos/personales/datos.txt
+   92  cp etc/passwd /home/alumno/principal4/ 
+   93  cp /etc/passwd /home/alumno/principal4/datos/personales/datos.txt
+   94  tree
+   95  mv /home/alumno/principal/fotos/compartidas/foto2.png /home/alumno/principal/fotos/bloqueadas
+   96  tree
+   97  history >principal/historial/historial.txt
+   98  tree
+   99  cd /
+  100  ls
+  101  ls pipe lest
+  102  ls pipe less
+  103  ls /pipe less
+  104  ls |less
+  105  ls | head 3
+  106  ls | head -3
+  107  ls | tail -3
+  108  ls | head -3 | tail -1
+  109  ls /media/ && echo "hola"
+  110  ls/medios && echo "hola"
+  111  ls / medios && echo "hola" 
+  112  ls /medios && echo "hola" 
+  113  apt
+  114  man apt
+  115  apt man apt
+  116  man apt
+  117  apt-get
+  118  ls
+  119  ls etc/apt
+  120  cat sources.list
+  121  cat /sources.list
+  122  cat etc/apt/sources.list
+  123  ls var live
+  124  ls varlive
+  125  ls var/lib
+  126  ls var/lib/apt
+  127  ls var/lib/lists
+  128  ls var/lib/apt/lists
+  129  apt - check
+  130  apt-check
+  131  apt -check
+  132  apt-get check
+  133  apt -get check
+  134  apt-get check
+  135  sudo su
+  136  mc
+  137  dpkg -l | more
+  138  dpkg -r mc
+  139  sudo su
+  140  history>historialfinal.txt

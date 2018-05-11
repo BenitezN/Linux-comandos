@@ -1,0 +1,115 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo u
+    6  sudo su
+    7  pqd
+    8  pwd
+    9  ls
+   10  skdir Alumno
+   11  mkdir alumno
+   12  pwd
+   13  list
+   14  ls
+   15  mkdir -p alumno/dato/personales/{publicos,privados}/backup,fiscales/{afip,arba}/pagos}
+   16  tree
+   17  rm -rf dato
+   18  tree
+   19  mkdir -p alumno/dato/{personales/{publicos,privados}/backup,fiscales/{afip,arba}/pagos}
+   20  tree
+   21  ~pwd
+   22  pwd
+   23  mkdir -p dato/{personales/{publicos,privados}/backup,fiscales/{afip,arba}/pagos}
+   24  tree
+   25  mkdir -p gatoo/dato/{personales/{publicos,privados}/backup,fiscales/{afip,arba}/pagos}
+   26  tree
+   27  rm -rf dato
+   28  rm -rf gatoo
+   29  rm -rf alumno
+   30  tree
+   31  info
+   32  pwd
+   33  ls
+   34  tree
+   35  add
+   36  addad
+   37  adad
+   38  dadda
+   39  addad
+   40  dddddaa
+   41  dada
+   42  adad
+   43  addd
+   44  sudo
+   45  clean
+   46  clear
+   47  sudo su
+   48  pwd
+   49  sudo du -
+   50  pwd
+   51  sudo su -
+   52  pwd
+   53  sudo su -
+   54  history
+   55  sudo su
+   56  pwd
+   57  echo "Hola consola"
+   58  ls - l
+   59  ls -l
+   60  edit
+   61  pwd
+   62  wpd
+   63  wp
+   64  wdpwd
+   65  ls -l
+   66  echo "Hola mundo consola!">saludar.txt
+   67  tree
+   68  read
+   69  pwd
+   70  saludar.txt
+   71  potoo
+   72  potato
+   73  patata
+   74  ls -l
+   75  cat saludar.txt
+   76  echo "Borro lo anterior">saludar.txt
+   77  cat saludar.txt
+   78  echo "Continuando con lo anterior">>saludar.txt
+   79  cat saludat.txt
+   80  cat saludar.txt
+   81  echo "prueba">>algo
+   82  cat algo.txt
+   83  cat algo
+   84  md5 sum saludar.txt
+   85  md5sum saludar.txt
+   86  sha
+   87  shasum saludar.txt
+   88  per
+   89  hasdf
+   90  laksdjfhjkdasfhlaskdfjhalskdfjahlsdkfakds
+   91  lakjsdflkasdjf
+   92  asdf
+   93  asd
+   94  asf
+   95  asd
+   96  asdf
+   97  asdfg
+   98  sudo apt install aoeui
+   99  asdfg
+  100  shasum saludar.txt
+  101  echo {shasum saludar.txt} hash.txt
+  102  echo {shasum saludar.txt}>hash.txt
+  103  cat hash.txt
+  104  echo shasum saludar.txt>hash.txt
+  105  cat hash.txt
+  106  echo (shasum saludar.txt)>hash.txt
+  107  echo "c9894c239ed3a6997c1456d0956d5dc339232f18">hash.txt
+  108  cat hash.txt
+  109  echo "aaa">hash.txt
+  110  cat hash.txt
+  111  shasum saludar.txt>hash.txt
+  112  cat hash.txt
+  113  pwd
+  114  ls
+  115  history>Escritorio/Clase.txt

@@ -1,0 +1,89 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  su
+    6  sudosu
+    7  alumno
+    8  sudo su
+    9  pwd
+   10  cd
+   11  cd alumno
+   12  cd /alumno
+   13  cd ./alumno
+   14  cd ./home/alumno
+   15  ls
+   16  cd
+   17  cd .
+   18  cd ..
+   19  pwd
+   20  ls
+   21  cd alumno
+   22  ls
+   23  mkdir -p Escritorio/{jorge,carlos,pedro}/backup
+   24  ls
+   25  cd escritorio
+   26  cd Escritorio/
+   27  ls
+   28  tree
+   29  ls
+   30  rm -rf /carlos
+   31  rm -rf /jorge
+   32  rm -rf /pedro
+   33  tree
+   34  rm -rf carlos
+   35  tree
+   36  rm jorge
+   37  rm -rf jorge
+   38  rm -rf pedro
+   39  tree
+   40  ls
+   41  cd ..
+   42  ls
+   43  mkdir -p Escritorio/{jorge,carlos,pedro}/backup
+   44  tree
+   45  mkdir -p nombres/{jorge,carlos,pedro}/backup
+   46  tree
+   47  cd ./escritorio
+   48  cd ./Escritorio
+   49  rm -rf carlos
+   50  rm -rf jorge
+   51  rm -rf pedro
+   52  cd ..
+   53  rm -rf nombres
+   54  tree
+   55  ls
+   56  tree
+   57  mkdir -p nombres/{{jorge,carlos,pedro}/backup,interno/{abc,def,ghi}/interno2}}
+   58  tree
+   59  rm -rf nombres
+   60  tree
+   61  mkdir -p nombres/{{jorge,carlos,pedro}/backup,interno/{abc,def,ghi}/interno2}
+   62  tree
+   63  rm -rf nombres
+   64  tree
+   65  sudo su
+   66  sudo su -
+   67  history
+   68  sudo su
+   69  echo "hola consola"
+   70  ls -l
+   71  cat test.txt
+   72  echo "hola mundo consola" > saludar.txt
+   73  cat saludar.txt
+   74  ls
+   75  ls -l
+   76  cat saludar.txt
+   77  echo "borro lo anterior" > saludar.txt
+   78  cat saludar.txt
+   79  echo "continuando con lo anterior" >> saludar.txt
+   80  cat saludar.txt
+   81  md5 zoom
+   82  md5sum saludar.txt
+   83  sha1sum saludar.txt
+   84  shasum saludar.txt
+   85  echo "d569e417e95fd512c6b3eb5f16b09220aca990be" > hash.txt
+   86  cat hash.txt
+   87  shasum saludar.txt > hash.txt
+   88  cat hash.txt
+   89  history > historial.txt
